@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.h
+{
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.im
+{
+    height: 100vh;
+    width:45vw;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   justify-content: center;
+    margin: 0px;
+    background-image: url('https://th.bing.com/th/id/OIG.Sa5RqKaJhRKovSucSCnn?w=1024&h=1024&rs=1&pid=ImgDetMain');
+    background-size: cover;
+    object-fit: cover;
+    color:white;
+    font-family: Okra, Helvetica, sans-serif;
+  
+}
+.lo
+{
+    height: 100vh;
+    width: 55vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    background-image: url('https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch1_vlksgq');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.for
+{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 450px;
+}
+.h1
+{
+    width: 500px;
+    height: 500px;
+    
+  background-color: rgba(0, 0, 0, 0.5);
+   
+;
+      
+ 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+}
+.b1
+{
+    width: 140px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.b1:hover
+{
+    background-color: green;
+    color: white;
+}
+.hi
+{
+    display: none;
+}
+.a1
+{
+    width: 680px;
+    height: 650px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+    box-shadow:
+  2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+  100px 100px 80px rgba(0, 0, 0, 0.07)
+;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+}
+.form
+{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 700px;
+    
+}
+.t1
+{
+    margin-left: 100px;
+}
+.b1
+{
+    width: 230px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+.b1:hover
+{
+    background-color: green;
+    color: white;
+}
+.a2
+{
+    display: none;
+}
+.one
+{
+    opacity: 1;
+
+}
+.oscar
+{
+    background-color: rgba(0, 0, 0, 0.6);
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

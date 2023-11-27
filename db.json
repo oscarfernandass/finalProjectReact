@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fi": "ksmam",
+      "la": "oaskoak",
+      "em1": "a@gmail.com",
+      "pa1": "isjaij",
+      "da": "11-03-2023"
+    },
+    {
+      "fi": "Nishok",
+      "la": "Madhavan R",
+      "em1": "ni@gmail.com",
+      "pa1": "12345",
+      "da": "2023-11-08",
+      "id": 2
+    },
+    {
+      "fi": "Nishok",
+      "la": "Madhavan R",
+      "em1": "siaoksak@gmail.com",
+      "pa1": "advvev",
+      "da": "2023-11-10",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
